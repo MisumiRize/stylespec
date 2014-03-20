@@ -1,0 +1,9 @@
+.test {
+  padding : 10px;
+  margin: 10px;
+}
+
+.test,
+.test2 {
+  color: #000000;
+}
